@@ -1,0 +1,215 @@
+﻿body {
+    background-color: lightgrey;
+}
+
+.Parameters {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
+#MilkDropDownList {
+    background-color: cornflowerblue;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    border-bottom: none;
+    width: 200px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#DropDownList2 {
+    background-color: cornflowerblue;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    border-bottom: none;
+    width: 200px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#FeathersDownList {
+    background-color: cornflowerblue;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    border-bottom: none;
+    width: 200px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#EggsDropDownList {
+    background-color: cornflowerblue;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    border-bottom: none;
+    width: 200px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#AirborneDropDownList {
+    background-color: cornflowerblue;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    border-bottom: none;
+    width: 200px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#AquaticDropDownList {
+    background-color: cornflowerblue;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    border-bottom: none;
+    width: 200px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#PredatorDropDownList {
+    background-color: cornflowerblue;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    border-bottom: none;
+    width: 200px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#ToothedDropDownList {
+    background-color: cornflowerblue;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    border-bottom: none;
+    width: 200px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#BackboneDropDownList {
+    background-color: cornflowerblue;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    border-bottom: none;
+    width: 200px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#BreathesDropDownList {
+    background-color: cornflowerblue;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    border-bottom: none;
+    width: 200px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#VenomousDropDownList {
+    background-color: cornflowerblue;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    border-bottom: none;
+    width: 200px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#FinsDropDownList {
+    background-color: cornflowerblue;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    border-bottom: none;
+    width: 200px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#TailDropDownList {
+    background-color: cornflowerblue;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    border-bottom: none;
+    width: 200px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#DomesticDropDownList {
+    background-color: cornflowerblue;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    border-bottom: none;
+    width: 200px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#CatsizeDropDownList {
+    background-color: cornflowerblue;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    border-bottom: none;
+    width: 200px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#ClassificationOptions {
+    background-color: cornflowerblue;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    border-bottom: none;
+    width: 200px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#AnimalNameTextBox{
+    border-bottom:10px;
+}
+
+#LegsTextbox {
+    border-bottom: 10px;
+}
+
+#PredictButton {
+    background-color:cornflowerblue;
+    width: 100px;
+    text-align: center;
+    border-color: cornflowerblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border:thick;
+    border-right: 100px;
+    border-left: 100px;
+    border-top: 100px;
+    border-bottom: 100px;
+    height: 20px;
+    
+}
+
+    #PredictButton:hover {
+        background-color: #4CAF50;
+        color: white;
+    }
